@@ -1,0 +1,17 @@
+{
+  "name": "tweetstorm",
+  "version": "1.0.0",
+  "description": "bypass Twitter's blessed 140 chars limit.",
+  "main": "chunkString.js",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuri Ramos",
+  "license": "MIT"
+}
